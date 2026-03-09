@@ -1,7 +1,7 @@
 # Automação de Indicadores de Vendas com Python
 
 ## Sobre o Projeto
-Este projeto foi desenvolvido para resolver um problema real de negócios: o tempo gasto com a compilação manual de dados e envio de relatórios rotineiros. 
+Este projeto foi desenvolvido como parte de um estudo prático de automação, utilizando uma base de dados didática para fins de demonstração técnica.
 
 O script automatiza o processo de ponta a ponta: ele processa uma base de dados de vendas, calcula os principais indicadores (Faturamento Total e Quantidade de Produtos Vendidos) e dispara um e-mail com o resumo gerencial de forma 100% autônoma, utilizando a biblioteca nativa `smtplib` do Python.
 
