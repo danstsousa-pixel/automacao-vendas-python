@@ -36,6 +36,7 @@ pip install pandas python-dotenv jupyter
 3. Configure as Variáveis de Ambiente:
    
 Para rodar este projeto na sua máquina, você precisará configurar as suas próprias credenciais de e-mail.
+
 Crie um arquivo chamado .env na raiz do projeto e adicione as seguintes variáveis:
 
 ```
