@@ -56,5 +56,6 @@ jupyter notebook projeto1.ipynb
 
 ## Autor
 Daniel Aleixo
+##
 Profissional focado em soluções através da tecnologia e Ciência da Informação.
 [LinkedIn](https://www.linkedin.com/in/daniel-souza-8075371bb/)
